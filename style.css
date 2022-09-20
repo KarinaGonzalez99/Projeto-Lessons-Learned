@@ -20,7 +20,7 @@ font-size: 20px;
 }
 
 table {
-    width: 100% ;
+width: 100% ;
 }
 
 th {
@@ -28,9 +28,9 @@ width: 200px;
 }
 
 #table {
-    font-size: 50px;
-    padding: 30px;
-    color: purple;
+font-size: 50px;
+padding: 30px;
+color: purple;
 }
 
 #licoes_aprendidas, #licoes_a_aprender {
