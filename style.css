@@ -3,7 +3,8 @@ background-color: rgb(253, 251, 251);
 font-family: 'Courier New', Courier, monospace;
 font-size: 15px;
 line-height: 20px;
-color: black;}
+color: black;
+text-align: center;}
 
 #cabecalho, #titulo {
 top: 0;
@@ -14,8 +15,22 @@ position: fixed;}
 width: 300px;}
 
 table, #table {
-width: 100%;
 border-style: dotted;
+font-size: 20px;
+}
+
+table {
+    width: 100% ;
+}
+
+th {
+width: 200px;
+}
+
+#table {
+    font-size: 50px;
+    padding: 30px;
+    color: purple;
 }
 
 #licoes_aprendidas, #licoes_a_aprender {
@@ -27,11 +42,29 @@ width: 300px;
 }
 
 .lado-esquerdo {
+text-align: center;
+padding: 100px;
+padding-top: 25px;
+padding-bottom: 25px;
+margin-left: 150px;
 display: inline-block;
-float: left;
+padding-left: 105px;
+padding-right: 105px;
 }
 
 .lado-direito {
+text-align: center;
+padding: 100px;
+padding-top: 25px;
+padding-bottom: 25px;
+margin-left: 150px;
+padding-left: 170px ;
+padding-right: 170px;
 display: inline-block;
-float: right;
+}
+
+footer {
+font-size: 30px;
+display: inline-block;
+margin-top: 70px;
 }
