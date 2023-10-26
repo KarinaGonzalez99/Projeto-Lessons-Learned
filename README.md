@@ -4,7 +4,7 @@
 </p>
 
 ## Visão Geral
-🚀
+Este é o projeto Lessons Learned, que visa demonstrar a aplicação de conceitos de HTML e CSS. Aqui, você encontrará uma página que aborda diversos requisitos, desde a definição da cor de fundo até a criação de elementos semânticos. Explore e aprenda com as lições abordadas neste projeto.🚀
 
 ## Funcionalidades
 - **Cor de Fundo**: A página possui uma cor de fundo `rgb(253, 251, 251)`.
